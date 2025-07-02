@@ -7,5 +7,5 @@ From 2022 to 2024, I was a visiting Ph.D. student at Nanyang Technological Unive
 
 My current research focuses on recommendation systems, especially on serendipity and diversity, aiming to enhance long-term user experience. Moving forward, my work will focus on the following areas:
 - **Multi-objective Recommendation.** Exploring methods to improve diversity, fairness, and serendipity in recommendation systems while preserving accuracy.  
-- **Multimodal Recommendation.** Incorporating multimodal features—especially speech signals—to enrich user and item representations.  
+- **Multi-modal Recommendation.** Incorporating multimodal features—especially speech signals—to enrich user and item representations.  
 - **Generative Recommendation.** Leveraging generative models (e.g., diffusion models, large language models) to simulate user behavior, augment data, and enable controllable recommendation generation.
