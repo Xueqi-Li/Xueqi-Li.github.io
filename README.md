@@ -1,5 +1,3 @@
-![Profile views](https://komarev.com/ghpvc/?username=Xueqi-Li&label=Profile+views&color=blue&style=flat)
-
 # Introduction
 https://xueqi-li.github.io 😊
 
