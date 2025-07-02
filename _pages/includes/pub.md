@@ -1,4 +1,4 @@
-# 📝 Publications 
+# 📝 Selected Publications 
 - ``TKDE 2024`` [Accurate and Scalable Graph Convolutional Networks for Recommendation Based on Subgraph Propagation](https://ieeexplore.ieee.org/document/10714406), **Xueqi Li**, 
 Guoqing Xiao, Yuedan Chen, Kenli Li, and Gao Cong.
 - ``CIKM 2024`` [On Evaluation Metrics for Diversity-enhanced Recommendations](https://dl.acm.org/doi/10.1145/3627673.3679629), **Xueqi Li**, Gao Cong, Guoqing Xiao, Yang Xu, Wenjun Jiang, and Kenli Li.
